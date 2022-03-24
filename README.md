@@ -5,7 +5,7 @@ There is a known issue with the Sharp X68000 where occasionally its 16KB battery
 
 </sub><sub>Images from [https://gamesx.com/wiki/doku.php?id=x68000:sram_issues](https://gamesx.com/wiki/doku.php?id=x68000:sram_issues)
 
-This issue seems to have carried over to emulation where playing X68000 games using the Keropi emulator can occassionally corrupt your sram.dat file causing subsequent games to not launch.  This issue was observed on both standalone Retroarch and also Retroarch running in Recalbox.
+This issue seems to have carried over to emulation where playing X68000 games using the Keropi emulator can occassionally corrupt your `sram.dat` file causing subsequent games to not launch.  This issue was observed on both standalone RetroArch on Windows and also RetroArch running from within Recalbox.
 
 The script presented here is intended to be used with the Recalbox retrogaming platform and should be placed in `/recalbox/share/userscripts`.
 
