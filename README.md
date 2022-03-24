@@ -1,4 +1,4 @@
-There is a known issue with the Sharp X68000 where occasionally its 16KB battrey-backed [SRAM would get corrupted](https://gamesx.com/wiki/doku.php?id=x68000:sram_issues) and show a black or a white screen.
+There is a known issue with the Sharp X68000 where occasionally its 16KB battery-backed [SRAM would get corrupted](https://gamesx.com/wiki/doku.php?id=x68000:sram_issues) and show a black or a white screen.
 
 ![Generic Error](https://i.imgur.com/warex72.png)
 ![Generic Error](https://i.imgur.com/2ksWfdz.png)
