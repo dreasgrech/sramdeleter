@@ -5,3 +5,5 @@ This issue seems to have carried over to emulation where playing X68000 games us
 This script presented here is intended to be used with the Recalbox retrogaming platform and should be placed in /recalbox/share/userscripts
 
 The script runs after any game ends and it deletes the sram.dat file if it finds it in /recalbox/share/bios/keropi/
+
+Script written by @GeneraleRusso on Discord and modified by me to use a network path instead of the file system directly and to use the Ash script instead of bash sh.
