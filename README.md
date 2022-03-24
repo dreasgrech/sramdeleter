@@ -2,6 +2,7 @@ There is a known issue with the Sharp X68000 where occasionally its 16KB battrey
 
 ![Generic Error](https://i.imgur.com/warex72.png)
 ![Generic Error](https://i.imgur.com/2ksWfdz.png)
+
 </sub><sub>Images from [https://gamesx.com/wiki/doku.php?id=x68000:sram_issues](https://gamesx.com/wiki/doku.php?id=x68000:sram_issues)
 
 This issue seems to have carried over to emulation where playing X68000 games using the Keropi emulator can occassionally corrupt your sram.dat file causing subsequent games to not launch.  This issue was observed on both standalone Retroarch and also Retroarch running in Recalbox.
